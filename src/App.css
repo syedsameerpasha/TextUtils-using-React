@@ -2,3 +2,6 @@
     display: flex;
     gap: 5px;
 }
+.container-fluid{
+    color:white;
+}
